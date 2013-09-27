@@ -1,2 +1,42 @@
 apply plugin: "groovy"
 apply plugin: "idea"
+
+repositories {
+    mavenCentral()
+}
+
+//list of drivers we want to use
+ext.drivers = ["firefox", "chrome"]
+
+dependencies {
+    def gebVersion = "0.9.0"
+    def seleniumVersion = "2.34.0"
+
+    //for spock
+    testCompile "org.gebish:geb-spock:$gebVersion"
+    testCompile "org.spockframework:spock-core:0.7-groovy-2.0"
+
+    //for Junit
+    testCompile "org.gebish:geb-junit4:$gebVersion"
+
+    //for drivers
+   drivers.each { driver ->
+       testCompile "org.seleniumhq.selenium:selenium-$driver-driver:$seleniumVersion"
+   }
+}
+
+drivers.each { driver ->
+       task "${driver}Test" (Type: Test) {
+           testReportDir = reporting.file ("$name/tests")
+           testResultsDir = file("$buildDir/test-results/$name")
+
+           systemProterty "geb.build.reportsDir", reporting.file("$name/geb")
+           systemProperty "geb.env", driver
+
+       }
+}
+
+test {
+    dependsOn drivers.collect { tasks["${it}Test"] }
+    enabled = false
+}
