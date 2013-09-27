@@ -2,17 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0008de1f-91e7-4276-8617-8e83d689fff3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/GebConfig.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/groovy/gebPages/GoogleHomePage.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/groovy/gebPages/GoogleResultsPage.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/groovy/gebSpecs/GoogleSpec.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/groovy/gebPages/WikipediaPage.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\classes\test\GoogleHomepage$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\classes\test\GoogleHomepage.class" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\classes\test\GoogleResultsPage$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\classes\test\GoogleResultsPage$__clinit__closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\classes\test\GoogleResultsPage$__clinit__closure2_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\classes\test\GoogleResultsPage$__clinit__closure2_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\classes\test\GoogleResultsPage$__clinit__closure2_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\classes\test\GoogleResultsPage$__clinit__closure2_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\classes\test\GoogleResultsPage.class" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\classes\test\GoogleSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\reports\firefoxTest\geb\GoogleSpec\001-001-First test case-end.html" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\reports\firefoxTest\geb\GoogleSpec\001-001-First test case-end.png" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\reports\firefoxTest\tests\GoogleSpec.html" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\reports\firefoxTest\tests\base-style.css" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\reports\firefoxTest\tests\css3-pie-1.0beta3.htc" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\reports\firefoxTest\tests\default-package.html" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\reports\firefoxTest\tests\index.html" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\reports\firefoxTest\tests\report.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\reports\firefoxTest\tests\style.css" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\resources\test\GebConfig.groovy" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\test-results\binary\firefoxTest\output.bin" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\test-results\binary\firefoxTest\output.bin.idx" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\test-results\binary\firefoxTest\results.bin" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\test-results\firefoxTest\TEST-GoogleSpec.xml" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_2156260191089325855_tmp" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_328366073892545027_tmp" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_4100222641379713400_tmp" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_4105723300692011470_tmp" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_4405279661122445720_tmp" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_5407296989408587212_tmp" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_5988373486812369047_tmp" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_6157907598941915466_tmp" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_6574566372688634091_tmp" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_6735840347921423568_tmp" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_7443565595623854374_tmp" afterPath="" />
+      <change type="DELETED" beforePath="G:\git_hub\geb-demo\build\tmp\firefoxTest\jar_extract_7651853320215435861_tmp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geb-demo.iws" afterPath="$PROJECT_DIR$/geb-demo.iws" />
     </list>
     <ignored path="geb-demo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0008de1f-91e7-4276-8617-8e83d689fff3" time="1380271817017" ignored="false" />
+    <file path="/Dummy.txt" changelist="0008de1f-91e7-4276-8617-8e83d689fff3" time="1380271860207" ignored="false" />
     <file path="/build.gradle" changelist="0008de1f-91e7-4276-8617-8e83d689fff3" time="1380271718768" ignored="false" />
     <file path="/GoogleHomepage.groovy" changelist="0008de1f-91e7-4276-8617-8e83d689fff3" time="1380262467876" ignored="false" />
     <file path="/GoogleResultsPage.groovy" changelist="0008de1f-91e7-4276-8617-8e83d689fff3" time="1380262824502" ignored="false" />
@@ -81,7 +111,7 @@
       <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="31" selection-start="905" selection-end="905" vertical-scroll-proportion="0.73712736">
+            <state line="38" column="31" selection-start="905" selection-end="905" vertical-scroll-proportion="0.7411444">
               <folding />
             </state>
           </provider>
@@ -412,7 +442,11 @@
       <created>1380270388108</created>
       <updated>1380270388108</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added all the needed files">
+      <created>1380271865447</created>
+      <updated>1380271865447</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -439,12 +473,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3282313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935154" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3282313" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935154" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282313" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -452,7 +486,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6717687" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67064846" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -548,7 +582,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="31" selection-start="905" selection-end="905" vertical-scroll-proportion="0.73712736">
+        <state line="38" column="31" selection-start="905" selection-end="905" vertical-scroll-proportion="0.7411444">
           <folding />
         </state>
       </provider>
