@@ -10,6 +10,30 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="junit-dep-4.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="selenium-api-2.34.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="cglib-nodep-2.1_3" level="project" />
+    <orderEntry type="library" scope="TEST" name="json-20080701" level="project" />
+    <orderEntry type="library" scope="TEST" name="geb-spock-0.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="httpcore-4.2.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="commons-exec-1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="hamcrest-core-1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="platform-3.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="geb-junit4-0.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="spock-core-0.7-groovy-2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="commons-codec-1.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="commons-logging-1.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="httpclient-4.2.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="geb-ast-0.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="jna-3.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="selenium-firefox-driver-2.34.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="commons-io-2.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="selenium-chrome-driver-2.34.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="geb-implicit-assertions-0.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="selenium-remote-driver-2.34.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="guava-14.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="geb-core-0.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="groovy-all-2.0.5" level="project" />
   </component>
 </module>
 
