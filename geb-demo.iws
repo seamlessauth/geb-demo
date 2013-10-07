@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0008de1f-91e7-4276-8617-8e83d689fff3" name="Default" comment="First util class">
+    <list id="0008de1f-91e7-4276-8617-8e83d689fff3" name="Default" comment="First util class" />
+    <list default="true" id="1656132d-7722-4f35-9234-761b26254f16" name="wb" comment="wb">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geb-demo.iws" afterPath="$PROJECT_DIR$/geb-demo.iws" />
     </list>
     <ignored path="geb-demo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0008de1f-91e7-4276-8617-8e83d689fff3" time="1381149908556" ignored="false" />
+    <file path="/Dummy.txt" changelist="1656132d-7722-4f35-9234-761b26254f16" time="1381150013856" ignored="false" />
     <file path="/build.gradle" changelist="0008de1f-91e7-4276-8617-8e83d689fff3" time="1380271718768" ignored="false" />
     <file path="/GoogleHomepage.groovy" changelist="0008de1f-91e7-4276-8617-8e83d689fff3" time="1380262467876" ignored="false" />
     <file path="/GoogleResultsPage.groovy" changelist="0008de1f-91e7-4276-8617-8e83d689fff3" time="1380262824502" ignored="false" />
@@ -252,6 +253,7 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/groovy/utils/commonlib.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/gebSpecs/GoogleSpec.groovy" />
+        <option value="$PROJECT_DIR$/geb-demo.iws" />
       </list>
     </option>
   </component>
@@ -584,6 +586,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0008de1f-91e7-4276-8617-8e83d689fff3" name="Default" comment="" />
+      <changelist id="1656132d-7722-4f35-9234-761b26254f16" name="wb" comment="" />
       <created>1380259280421</created>
       <updated>1380259280421</updated>
     </task>
@@ -615,7 +618,11 @@
       <created>1381149094343</created>
       <updated>1381149094343</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="wb">
+      <created>1381150017517</created>
+      <updated>1381150017517</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -706,7 +713,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="First util class" />
+    <option name="LAST_COMMIT_MESSAGE" value="wb" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -725,6 +732,7 @@
     <MESSAGE value="Added all the needed files" />
     <MESSAGE value="Cleaning up" />
     <MESSAGE value="First util class" />
+    <MESSAGE value="wb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
