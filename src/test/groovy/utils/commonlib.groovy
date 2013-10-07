@@ -19,7 +19,6 @@ class commonlib {
             sb.append(c);
 
         }
-
         return sb.toString();
     }
 }
